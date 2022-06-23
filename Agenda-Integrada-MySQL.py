@@ -11,7 +11,7 @@ def conectar():
         host='localhost',
         database='db_pratica_integradora',
         user='root',
-        password='histefany',
+        password='***********',
         auth_plugin = 'mysql_native_password')
         print("Conectado...")
     except Error as erro:
